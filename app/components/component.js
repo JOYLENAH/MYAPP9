@@ -1,4 +1,4 @@
-import Title from
+
 
 function content(){
     return(
