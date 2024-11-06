@@ -1,8 +1,8 @@
-function Title(){
+function Title(props){
     return(
         <div>
-            <title heading="welcome to muk block" />
-            <content details="this way"/>
+            <p>{props.heading}</p>
+            
             <h1>this is nice</h1>
             <h1>this needs to be interesting</h1>
         </div>
