@@ -3,8 +3,6 @@ import Content from "./components/Content";
 import Button from '@mui/material/Button';
 
 
-
-
 function home(){
   return(
   <div>
