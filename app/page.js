@@ -1,7 +1,6 @@
 import Title from "./components/Title";
 import Content from "./components/Content";
 import Button from '@mui/material/Button';
-import React {usesate,useeffect }from "react";
 
 
 
@@ -34,7 +33,8 @@ function home(){
   </div>
   
   );
-}
+};
+
 export default home;
 
 
